@@ -14,4 +14,5 @@
 | ---------- | ---------------------------------------------------- | ---------- | ------------------------------------------------------------ |
 | 弹跳小球   | 对MDN教程上的Demo做了一些改动                        | JavaScript | [原文链接](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Objects/向“弹跳球”演示程序添加新功能) |
 | socket入门 | 计算机网络实践的期末作业，用socket实现server和client | C          |                                                              |
+| 密码管理器 | 人工智能基础的期末作业                               | Python     | 算法参考：[原文链接](https://flashgene.com/archives/31435.html) |
 
